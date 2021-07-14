@@ -20,4 +20,4 @@ This application generates a random password based on user selected crieria.
 ## Repository Link 
 https://github.com/kyairlakayla/password-generator
 ## Deployed Application 
-https://kyairlakayla.github.io/password-generator/ß
+https://kyairlakayla.github.io/password-generator/
